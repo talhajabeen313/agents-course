@@ -1,4 +1,4 @@
-# <a href="https://hf.co/learn/agents-course" target="_blank">The Hugging Face Agents Course</a>
+# <a href="https://hf.co/learn/agents-course" target="_blank">The Hugging Face Agents Course</a> 
 
 If you like the course, **don't hesitate to ⭐ star this repository**. This helps us to **make the course more visible 🤗**.
 
